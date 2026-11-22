@@ -13,8 +13,8 @@
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/kijonne/kijonne/output/github-contribution-grid-snake-dark.svg?v=1"
-    width="100%"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    width="850"
     alt="GitHub contribution snake"
   />
 </div>
